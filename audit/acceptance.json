@@ -1,0 +1,287 @@
+{
+  "routes": 45,
+  "services_routes": 36,
+  "home_services": 36,
+  "home_testimonials": 7,
+  "preserved_modal_instances": 72,
+  "local_links_assets_fragments_checked": 6023,
+  "coverage": [
+    {
+      "route": "about/index.html",
+      "source_text_nodes": 210,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "contact/index.html",
+      "source_text_nodes": 218,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "index.html",
+      "source_text_nodes": 1101,
+      "preserved": true,
+      "modals": 36
+    },
+    {
+      "route": "knowledge-hub/el-nino-prep/index.html",
+      "source_text_nodes": 190,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "knowledge-hub/index.html",
+      "source_text_nodes": 274,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "our-work/index.html",
+      "source_text_nodes": 215,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "project-services/index.html",
+      "source_text_nodes": 581,
+      "preserved": true,
+      "modals": 20
+    },
+    {
+      "route": "property-services/index.html",
+      "source_text_nodes": 483,
+      "preserved": true,
+      "modals": 16
+    },
+    {
+      "route": "services/below-grade-waterproofing/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/block-walls/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/common-area-components/index.html",
+      "source_text_nodes": 187,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/concrete/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/concrete-fences/index.html",
+      "source_text_nodes": 183,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/decking/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/decking-systems/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/defect-repair/index.html",
+      "source_text_nodes": 183,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/dry-rot-repair/index.html",
+      "source_text_nodes": 187,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/dry-rot-repairs/index.html",
+      "source_text_nodes": 187,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/emergency-services/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/exterior-repairs/index.html",
+      "source_text_nodes": 183,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/flashing/index.html",
+      "source_text_nodes": 183,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/frp-systems/index.html",
+      "source_text_nodes": 183,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/high-rise-specialists/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/interior-remodel/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/interior-repairs/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/maintenance-programs/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/painting/index.html",
+      "source_text_nodes": 183,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/painting-services/index.html",
+      "source_text_nodes": 183,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/parking-structures/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/planter-boxes/index.html",
+      "source_text_nodes": 187,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/podium-decks/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/pool-spa/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/repair-history-tracking/index.html",
+      "source_text_nodes": 183,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/roofing/index.html",
+      "source_text_nodes": 189,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/roofs-gutters/index.html",
+      "source_text_nodes": 189,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/sb-326-repairs/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/spall-repairs/index.html",
+      "source_text_nodes": 189,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/structural-repairs/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/stucco/index.html",
+      "source_text_nodes": 187,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/tile-paver-systems/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/water-testing/index.html",
+      "source_text_nodes": 187,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/waterproofing-systems/index.html",
+      "source_text_nodes": 191,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/windows-doors/index.html",
+      "source_text_nodes": 187,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "services/windows-storefronts/index.html",
+      "source_text_nodes": 187,
+      "preserved": true,
+      "modals": 0
+    },
+    {
+      "route": "testimonials/index.html",
+      "source_text_nodes": 180,
+      "preserved": true,
+      "modals": 0
+    }
+  ],
+  "errors": [],
+  "css_parse_errors": [],
+  "css_self_cycles": [],
+  "undefined_css_variables": [],
+  "original_handler_preserved": true,
+  "source_unchanged": true,
+  "form_note": "Source handler submits six keys only: name/email/phone/service/message/source_url. Additional displayed fields are not separately serialized in source; handler preserved as explicitly required. No real test submission performed."
+}

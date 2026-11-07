@@ -1,0 +1,84 @@
+[
+  {
+    "w": 390,
+    "sw": 390,
+    "h1": "About PCW Contracting Services // The Difference",
+    "brokenImages": [],
+    "bodyColor": "rgb(10, 25, 47)",
+    "bodyBackground": "rgb(255, 255, 255)",
+    "grid": [],
+    "route": "about/index.html"
+  },
+  {
+    "w": 390,
+    "sw": 390,
+    "h1": "Let\u2019s Discuss Your Project // Request an Estimate",
+    "brokenImages": [],
+    "bodyColor": "rgb(10, 25, 47)",
+    "bodyBackground": "rgb(255, 255, 255)",
+    "grid": [
+      "358px"
+    ],
+    "route": "contact/index.html"
+  },
+  {
+    "w": 390,
+    "sw": 390,
+    "h1": "Extraordinary Service.\nProven Results.",
+    "brokenImages": [
+      "assets/images/pcw_decking.png"
+    ],
+    "bodyColor": "rgb(10, 25, 47)",
+    "bodyBackground": "rgb(255, 255, 255)",
+    "grid": [
+      "358px",
+      "358px",
+      "358px"
+    ],
+    "route": "index.html"
+  },
+  {
+    "w": 390,
+    "sw": 390,
+    "h1": "El Nino Prep // Survival Guide",
+    "brokenImages": [],
+    "bodyColor": "rgb(10, 25, 47)",
+    "bodyBackground": "rgb(255, 255, 255)",
+    "grid": [],
+    "route": "knowledge-hub/el-nino-prep/index.html"
+  },
+  {
+    "w": 390,
+    "sw": 390,
+    "h1": "Knowledge Hub",
+    "brokenImages": [],
+    "bodyColor": "rgb(10, 25, 47)",
+    "bodyBackground": "rgb(255, 255, 255)",
+    "grid": [],
+    "route": "knowledge-hub/index.html"
+  },
+  {
+    "w": 390,
+    "sw": 390,
+    "h1": "Our Work // Capabilities-First Portfolio",
+    "brokenImages": [],
+    "bodyColor": "rgb(10, 25, 47)",
+    "bodyBackground": "rgb(255, 255, 255)",
+    "grid": [
+      "358px"
+    ],
+    "route": "our-work/index.html"
+  },
+  {
+    "w": 390,
+    "sw": 390,
+    "h1": "Project Services // Major Reconstruction",
+    "brokenImages": [],
+    "bodyColor": "rgb(10, 25, 47)",
+    "bodyBackground": "rgb(255, 255, 255)",
+    "grid": [
+      "358px"
+    ],
+    "route": "project-services/index.html"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "route": "about/index.html",
+    "missing": {}
+  },
+  {
+    "route": "contact/index.html",
+    "missing": {}
+  },
+  {
+    "route": "index.html",
+    "missing": {
+      "Details & Quote \u2192": 36,
+      "Discover More": 36
+    }
+  },
+  {
+    "route": "knowledge-hub/el-nino-prep/index.html",
+    "missing": {}
+  },
+  {
+    "route": "knowledge-hub/index.html",
+    "missing": {}
+  },
+  {
+    "route": "our-work/index.html",
+    "missing": {}
+  },
+  {
+    "route": "project-services/index.html",
+    "missing": {
+      "Details & Quote \u2192": 20,
+      "Discover More": 20
+    }
+  },
+  {
+    "route": "property-services/index.html",
+    "missing": {
+      "Details & Quote \u2192": 16,
+      "Discover More": 16
+    }
+  },
+  {
+    "route": "services/below-grade-waterproofing/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/block-walls/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/common-area-components/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/concrete-fences/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/concrete/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/decking-systems/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/decking/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/defect-repair/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/dry-rot-repair/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/dry-rot-repairs/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/emergency-services/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/exterior-repairs/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/flashing/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/frp-systems/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/high-rise-specialists/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/interior-remodel/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/interior-repairs/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/maintenance-programs/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/painting-services/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/painting/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/parking-structures/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/planter-boxes/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/podium-decks/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/pool-spa/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/repair-history-tracking/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/roofing/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/roofs-gutters/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/sb-326-repairs/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/spall-repairs/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/structural-repairs/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/stucco/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/tile-paver-systems/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/water-testing/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/waterproofing-systems/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/windows-doors/index.html",
+    "missing": {}
+  },
+  {
+    "route": "services/windows-storefronts/index.html",
+    "missing": {}
+  },
+  {
+    "route": "testimonials/index.html",
+    "missing": {}
+  }
+]

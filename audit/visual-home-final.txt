@@ -1,0 +1,12 @@
+**SHIP — for the visible homepage layouts at 1440px and 390px.** Neither capture shows a material frontend defect requiring a fix.
+
+- **Text integrity:** No broken words, clipped text, or unintended overlaps. The mobile headline wraps cleanly, and the supporting paragraph remains readable.
+- **Header:** The dark header is intact. On mobile, the logo, estimate button, and menu control fit without visible collision. No header changes recommended.
+- **Photo crop:** Both crops work. Desktop emphasizes the building; mobile retains the building and cranes with enough context to read as a construction scene. No visibly damaging crop.
+- **Spacing and hierarchy:** The desktop has generous white space and a clear headline → actions → project-image progression. Mobile stacks those elements coherently, with comfortable side margins and separated buttons.
+- **Legibility:** Main copy, calls to action, and navy-panel text are readable. The small trust/license line is the weakest element, particularly on mobile, but it is not visibly broken or materially illegible.
+- **Mobile usability:** No visible horizontal overflow, overlapping controls, or undersized primary actions.
+
+The navy/blue palette, restrained borders, white space, and architectural imagery support the requested premium direction without changing approved wording.
+
+**Scope:** These captures do not establish whether disclosures, navigation, or buttons work, whether full content is available below the captured area, or whether the cursor is native. Those require interaction testing; they are not demonstrated defects here.

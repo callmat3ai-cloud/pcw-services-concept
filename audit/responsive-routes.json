@@ -1,0 +1,2150 @@
+[
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "About PCW Contracting Services // The Difference",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "about/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "About PCW Contracting Services // The Difference",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "about/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "About PCW Contracting Services // The Difference",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "about/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Let’s Discuss Your Project // Request an Estimate",
+    "images": [],
+    "grids": [
+      {
+        "selector": "container contact-layout",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "contact/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Let’s Discuss Your Project // Request an Estimate",
+    "images": [],
+    "grids": [
+      {
+        "selector": "container contact-layout",
+        "tracks": "478.969px 648.031px"
+      }
+    ],
+    "badVars": [],
+    "route": "contact/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Let’s Discuss Your Project // Request an Estimate",
+    "images": [],
+    "grids": [
+      {
+        "selector": "container contact-layout",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "contact/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Extraordinary Service.\nProven Results.",
+    "images": [],
+    "grids": [
+      {
+        "selector": "division-grid",
+        "tracks": "720px"
+      },
+      {
+        "selector": "dir-grid",
+        "tracks": "720px"
+      },
+      {
+        "selector": "division-grid",
+        "tracks": "720px"
+      },
+      {
+        "selector": "dir-grid",
+        "tracks": "720px"
+      },
+      {
+        "selector": "container contact-layout",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Extraordinary Service.\nProven Results.",
+    "images": [],
+    "grids": [
+      {
+        "selector": "division-grid",
+        "tracks": "458.172px 661.828px"
+      },
+      {
+        "selector": "dir-grid",
+        "tracks": "570px 570px"
+      },
+      {
+        "selector": "division-grid",
+        "tracks": "560px 560px"
+      },
+      {
+        "selector": "dir-grid",
+        "tracks": "570px 570px"
+      },
+      {
+        "selector": "container contact-layout",
+        "tracks": "478.969px 648.031px"
+      }
+    ],
+    "badVars": [],
+    "route": "index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Extraordinary Service.\nProven Results.",
+    "images": [],
+    "grids": [
+      {
+        "selector": "division-grid",
+        "tracks": "358px"
+      },
+      {
+        "selector": "dir-grid",
+        "tracks": "358px"
+      },
+      {
+        "selector": "division-grid",
+        "tracks": "358px"
+      },
+      {
+        "selector": "dir-grid",
+        "tracks": "358px"
+      },
+      {
+        "selector": "container contact-layout",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "El Nino Prep // Survival Guide",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "knowledge-hub/el-nino-prep/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Knowledge Hub",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "knowledge-hub/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Our Work // Capabilities-First Portfolio",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "our-work/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "El Nino Prep // Survival Guide",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "knowledge-hub/el-nino-prep/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "El Nino Prep // Survival Guide",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "knowledge-hub/el-nino-prep/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Project Services // Major Reconstruction",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "project-services/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Knowledge Hub",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "knowledge-hub/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Knowledge Hub",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "knowledge-hub/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Property Services // Component Maintenance & Upkeep",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "property-services/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Our Work // Capabilities-First Portfolio",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "our-work/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Project Services // Major Reconstruction",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "project-services/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Below Grade Waterproofing // Lasting Protection – From the Ground Down",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/below-grade-waterproofing/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Our Work // Capabilities-First Portfolio",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "570px 570px"
+      }
+    ],
+    "badVars": [],
+    "route": "our-work/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Property Services // Component Maintenance & Upkeep",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "property-services/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Perimeter Fencing & Block Walls // Defining Boundaries, Enhancing Properties",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/block-walls/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Below Grade Waterproofing // Lasting Protection – From the Ground Down",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/below-grade-waterproofing/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Common Area Components // Enhancing Community Pride & Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/common-area-components/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Project Services // Major Reconstruction",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "570px 570px"
+      }
+    ],
+    "badVars": [],
+    "route": "project-services/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Perimeter Fencing & Block Walls // Defining Boundaries, Enhancing Properties",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/block-walls/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Common Area Components // Enhancing Community Pride & Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/common-area-components/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Concrete Services // Concrete Solutions - Proven Results",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/concrete/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Concrete Services // Concrete Solutions - Proven Results",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/concrete/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Property Services // Component Maintenance & Upkeep",
+    "images": [],
+    "grids": [
+      {
+        "selector": "dir-grid",
+        "tracks": "570px 570px"
+      }
+    ],
+    "badVars": [],
+    "route": "property-services/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Concrete Fences // Precast Panel & Post Repair",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/concrete-fences/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Concrete Fences // Precast Panel & Post Repair",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/concrete-fences/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Below Grade Waterproofing // Lasting Protection – From the Ground Down",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/below-grade-waterproofing/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Decking // Protecting Decks, Preserving Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/decking/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Decking // Protecting Decks, Preserving Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/decking/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Perimeter Fencing & Block Walls // Defining Boundaries, Enhancing Properties",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/block-walls/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Decking // Protecting Decks, Preserving Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/decking-systems/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Decking // Protecting Decks, Preserving Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/decking-systems/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Construction Defect Repair // Envelope & Structural Reconstruction",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/defect-repair/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Common Area Components // Enhancing Community Pride & Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/common-area-components/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Dry Rot Repairs // Strength Renewed, Protection Restored",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/dry-rot-repair/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Construction Defect Repair // Envelope & Structural Reconstruction",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/defect-repair/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Dry Rot Repairs // Strength Renewed, Protection Restored",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/dry-rot-repairs/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Dry Rot Repairs // Strength Renewed, Protection Restored",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/dry-rot-repair/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Concrete Services // Concrete Solutions - Proven Results",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/concrete/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Emergency Repairs // Rapid Response, Reliable Solutions",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/emergency-services/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Dry Rot Repairs // Strength Renewed, Protection Restored",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/dry-rot-repairs/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Exterior Repairs // Building Envelope Maintenance & Carpentry",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/exterior-repairs/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Concrete Fences // Precast Panel & Post Repair",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/concrete-fences/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Flashing // Custom Architectural Sheet Metal & Transitions",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/flashing/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Emergency Repairs // Rapid Response, Reliable Solutions",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/emergency-services/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "FRP Systems // Fiber-Reinforced Polymer Structural Strengthening",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/frp-systems/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Decking // Protecting Decks, Preserving Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/decking/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Highrise Specialists // Excellence at Every Elevation",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/high-rise-specialists/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Exterior Repairs // Building Envelope Maintenance & Carpentry",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/exterior-repairs/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Aesthetic Upgrades // Transforming Spaces and Elevating Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/interior-remodel/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Decking // Protecting Decks, Preserving Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/decking-systems/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Flashing // Custom Architectural Sheet Metal & Transitions",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/flashing/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Interior Repairs // From Restoration to Refinement",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/interior-repairs/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Construction Defect Repair // Envelope & Structural Reconstruction",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/defect-repair/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "FRP Systems // Fiber-Reinforced Polymer Structural Strengthening",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/frp-systems/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Maintenance Programs // Proactive Care – Lasting Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/maintenance-programs/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Dry Rot Repairs // Strength Renewed, Protection Restored",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/dry-rot-repair/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Painting & Waterproof Coatings // Large-Scale Exterior Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/painting/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Highrise Specialists // Excellence at Every Elevation",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/high-rise-specialists/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Dry Rot Repairs // Strength Renewed, Protection Restored",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/dry-rot-repairs/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Painting Services // Maintenance Touch-Up & Protective Finishing",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/painting-services/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Aesthetic Upgrades // Transforming Spaces and Elevating Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/interior-remodel/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Parking Structures // Restoring Structural Integrity",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/parking-structures/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Interior Repairs // From Restoration to Refinement",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/interior-repairs/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Emergency Repairs // Rapid Response, Reliable Solutions",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/emergency-services/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Planter Boxes // Waterproofing Below with Beautiful Landscapes Above",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/planter-boxes/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Maintenance Programs // Proactive Care – Lasting Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/maintenance-programs/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Podium Decks // Protection Below, Beauty Above",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/podium-decks/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Exterior Repairs // Building Envelope Maintenance & Carpentry",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/exterior-repairs/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Pool & Spa // Designed for Longterm Enjoyment",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/pool-spa/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Painting & Waterproof Coatings // Large-Scale Exterior Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/painting/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Repair-History Tracking // Digital Building Asset Archives",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/repair-history-tracking/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Flashing // Custom Architectural Sheet Metal & Transitions",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/flashing/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Painting Services // Maintenance Touch-Up & Protective Finishing",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/painting-services/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Roofing // Quality Overhead, Confidence Below",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/roofing/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Roofs // Quality Overhead, Confidence Below",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/roofs-gutters/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "FRP Systems // Fiber-Reinforced Polymer Structural Strengthening",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/frp-systems/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Parking Structures // Restoring Structural Integrity",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/parking-structures/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "SB 326 Repairs // Restoring Safety - Fulfilling Responsibility",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/sb-326-repairs/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Planter Boxes // Waterproofing Below with Beautiful Landscapes Above",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/planter-boxes/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Spall Repairs // Repairing Damage, Restoring Confidence",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/spall-repairs/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Highrise Specialists // Excellence at Every Elevation",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/high-rise-specialists/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Structural Repairs // Strengthening Structures, Protecting Investments",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/structural-repairs/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Podium Decks // Protection Below, Beauty Above",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/podium-decks/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Stucco // Quality Beyond the Surface",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/stucco/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Aesthetic Upgrades // Transforming Spaces and Elevating Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/interior-remodel/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Tile, Pavers & Raised Pedestal Systems // Beautiful Surfaces with Enduring Quality",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/tile-paver-systems/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Pool & Spa // Designed for Longterm Enjoyment",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/pool-spa/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Repair-History Tracking // Digital Building Asset Archives",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/repair-history-tracking/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Water Testing // Detect – Diagnose - Resolve",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/water-testing/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Interior Repairs // From Restoration to Refinement",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/interior-repairs/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Waterproofing Systems // Protection that Lasts",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/waterproofing-systems/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Roofing // Quality Overhead, Confidence Below",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/roofing/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Maintenance Programs // Proactive Care – Lasting Value",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/maintenance-programs/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Windows & Doors // Precision Installation with Lasting Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/windows-doors/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Windows & Storefronts // Precision Installation with Lasting Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "358px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/windows-storefronts/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Roofs // Quality Overhead, Confidence Below",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/roofs-gutters/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Client Testimonials",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "testimonials/index.html",
+    "requestedWidth": 390,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Painting & Waterproof Coatings // Large-Scale Exterior Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/painting/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "SB 326 Repairs // Restoring Safety - Fulfilling Responsibility",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/sb-326-repairs/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Painting Services // Maintenance Touch-Up & Protective Finishing",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/painting-services/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Spall Repairs // Repairing Damage, Restoring Confidence",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/spall-repairs/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Structural Repairs // Strengthening Structures, Protecting Investments",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/structural-repairs/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Parking Structures // Restoring Structural Integrity",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/parking-structures/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Stucco // Quality Beyond the Surface",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/stucco/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Planter Boxes // Waterproofing Below with Beautiful Landscapes Above",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/planter-boxes/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Tile, Pavers & Raised Pedestal Systems // Beautiful Surfaces with Enduring Quality",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/tile-paver-systems/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Podium Decks // Protection Below, Beauty Above",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/podium-decks/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Water Testing // Detect – Diagnose - Resolve",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/water-testing/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Waterproofing Systems // Protection that Lasts",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/waterproofing-systems/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Pool & Spa // Designed for Longterm Enjoyment",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/pool-spa/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Windows & Doors // Precision Installation with Lasting Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/windows-doors/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Repair-History Tracking // Digital Building Asset Archives",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/repair-history-tracking/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Windows & Storefronts // Precision Installation with Lasting Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "720px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/windows-storefronts/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "h1": "Client Testimonials",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "testimonials/index.html",
+    "requestedWidth": 768,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Roofing // Quality Overhead, Confidence Below",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/roofing/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Roofs // Quality Overhead, Confidence Below",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/roofs-gutters/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "SB 326 Repairs // Restoring Safety - Fulfilling Responsibility",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/sb-326-repairs/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Spall Repairs // Repairing Damage, Restoring Confidence",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/spall-repairs/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Structural Repairs // Strengthening Structures, Protecting Investments",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/structural-repairs/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Stucco // Quality Beyond the Surface",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/stucco/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Tile, Pavers & Raised Pedestal Systems // Beautiful Surfaces with Enduring Quality",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/tile-paver-systems/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Water Testing // Detect – Diagnose - Resolve",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/water-testing/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Waterproofing Systems // Protection that Lasts",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/waterproofing-systems/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Windows & Doors // Precision Installation with Lasting Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/windows-doors/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Windows & Storefronts // Precision Installation with Lasting Protection",
+    "images": [],
+    "grids": [
+      {
+        "selector": "service-layout-grid",
+        "tracks": "797px 320px"
+      }
+    ],
+    "badVars": [],
+    "route": "services/windows-storefronts/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Client Testimonials",
+    "images": [],
+    "grids": [],
+    "badVars": [],
+    "route": "testimonials/index.html",
+    "requestedWidth": 1440,
+    "consoleErrors": []
+  }
+]

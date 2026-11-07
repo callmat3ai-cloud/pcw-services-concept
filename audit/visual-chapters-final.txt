@@ -1,0 +1,30 @@
+**FIX before shipping.** The navy/blue palette, architectural photography, white space, and disclosure-led structure broadly fit the brief. Two visible defects need correction; neither requires changing approved wording or the exact dark header.
+
+### 1. Project-services introduction is nearly invisible
+**Where:** `desktop-services.jpg`, paragraph immediately above “Explore all project services.”
+
+The pale text on white is extremely difficult to read. The opening portion is effectively lost, making the paragraph appear incomplete.
+
+**Fix:** Restore a readable dark text color and full opacity throughout this paragraph. Check that no mask, overlay, or reveal effect is obscuring its beginning. Keep all approved words.
+
+### 2. Resource cards have inconsistent—and sometimes effectively missing—internal padding
+**Where:** `desktop-resources.jpg`.
+
+- “El Nino Prep” has a clear inset from its card border.
+- Both right-hand cards place their labels, titles, descriptions, and links almost flush against the left border.
+- “Association Not-to-Exceed Amounts” has the same near-zero left inset.
+- Vertically adjacent cards touch, while the two columns have a substantial gap.
+
+This makes the resource area look uneven and unfinished rather than deliberately architectural.
+
+**Fix:** Apply consistent internal padding to every card and a deliberate vertical gap between stacked cards. The large featured card can remain larger, but its neighbors need the same content-inset logic.
+
+### What does not warrant a defect report
+- **Headings:** No visibly broken words, overlapping text, or clipped headings in these captures. The property heading wraps between whole words.
+- **Photography:** Both visible photos retain useful architectural context; neither shows an obvious material crop problem.
+- **Spacing:** The generous section spacing is broadly appropriate to the stated direction. The resource-card inconsistency is the specific spacing issue.
+- **Header:** No visible collision or clipping; preserve it exactly as required.
+- **Disclosures:** The closed rows support a concise presentation. These still images do not establish whether they open or expose the full content.
+- **Mobile and cursor:** No mobile capture or visible cursor evidence is supplied, so mobile usability and native-cursor behavior cannot be judged here.
+
+**Release recommendation:** Correct the project-introduction legibility and resource-card spacing, then recheck those areas. No copy removal or broad redesign is justified by the visible evidence.

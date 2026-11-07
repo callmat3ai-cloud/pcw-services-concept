@@ -1,0 +1,64 @@
+[
+  {
+    "test": "search filters exact source cards",
+    "visible": [
+      "Decking"
+    ]
+  },
+  {
+    "test": "modal visible and focused",
+    "hash": "#proj-decking",
+    "display": "flex",
+    "focus": "proj-decking"
+  },
+  {
+    "test": "focus trapped",
+    "inside": true
+  },
+  {
+    "test": "Escape closes",
+    "open": 0
+  },
+  {
+    "test": "mobile drawer and accordion",
+    "drawer": "false",
+    "accordion": "true"
+  },
+  {
+    "test": "source contact form and service preselect",
+    "service": "Decking",
+    "fields": [
+      "contact-name",
+      "contact-address",
+      "contact-resident",
+      "contact-resident-address",
+      "contact-email",
+      "contact-phone",
+      "contact-mgmt",
+      "contact-contact-name",
+      "contact-contact-email",
+      "contact-contact-phone",
+      "contact-gate",
+      "contact-access",
+      "contact-due",
+      "contact-photo",
+      "contact-service",
+      "contact-message"
+    ],
+    "handler": "handleFormSubmit(event)"
+  },
+  {
+    "test": "original handler mocked execution; zero network",
+    "endpoint": "https://161-97-173-78.sslip.io/webhook/pcw-estimate-request",
+    "method": "POST",
+    "payloadKeys": [
+      "name",
+      "email",
+      "phone",
+      "service",
+      "message",
+      "source_url"
+    ],
+    "realSubmission": false
+  }
+]

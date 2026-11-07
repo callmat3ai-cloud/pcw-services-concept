@@ -1,0 +1,15 @@
+**FIX — one visible mobile layout defect before shipping.** The desktop capture is coherent and close to the intended premium navy/blue architectural style. Preserve the approved wording and exact dark header.
+
+### Material defect
+
+- **390px mobile: the hero photo runs past the right content gutter.** Text and buttons sit within consistent 24px side margins, but the image starts at 24px and continues to the viewport’s right edge. The navy caption panel ends earlier, creating three competing right edges across the buttons, photo, and panel. This reads as an unresolved width/crop treatment rather than a deliberate architectural layout.  
+  **Fix:** constrain the photo wrapper to the same mobile content width, with the image filling that wrapper. Keep the caption inside it and tune the crop so the building remains the focal point. If an edge-to-edge image is intended, make that treatment deliberate on both sides instead.
+
+### Otherwise visible
+
+- **Typography:** no broken words, clipped headings, or text collisions in either capture. The mobile headline wraps cleanly.
+- **Legibility:** main copy, CTAs, and caption remain readable. The trust/license line is small but visibly intact.
+- **Desktop photo:** the building remains recognizable, and the caption overlay does not obscure the principal architectural subject.
+- **Spacing and mobile controls:** generous white space, clear CTA separation, and no visible header overlap at 390px. No header redesign is warranted.
+
+**Not verifiable from these captures:** disclosure behavior and access to full content, menu operation, native cursor behavior, or content below the captured area. The mobile image continues below the screenshot; that alone is not evidence of vertical clipping.

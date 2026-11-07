@@ -1,0 +1,150 @@
+[
+  {
+    "w": 1440,
+    "sw": 1425,
+    "font": "Archivo, sans-serif",
+    "h1": {
+      "x": 75.96875,
+      "y": 261.875,
+      "width": 578,
+      "height": 192.75,
+      "top": 261.875,
+      "right": 653.96875,
+      "bottom": 454.625,
+      "left": 75.96875
+    },
+    "header": {
+      "x": 0,
+      "y": 0,
+      "width": 1425,
+      "height": 76,
+      "top": 0,
+      "right": 1425,
+      "bottom": 76,
+      "left": 0
+    },
+    "nav": "flex"
+  },
+  {
+    "w": 1024,
+    "sw": 1009,
+    "font": "Archivo, sans-serif",
+    "h1": {
+      "x": 30,
+      "y": 203.640625,
+      "width": 437.03125,
+      "height": 156.1875,
+      "top": 203.640625,
+      "right": 467.03125,
+      "bottom": 359.828125,
+      "left": 30
+    },
+    "header": {
+      "x": 0,
+      "y": 0,
+      "width": 1009,
+      "height": 76,
+      "top": 0,
+      "right": 1009,
+      "bottom": 76,
+      "left": 0
+    },
+    "nav": "none"
+  },
+  {
+    "w": 768,
+    "sw": 768,
+    "font": "Archivo, sans-serif",
+    "h1": {
+      "x": 24,
+      "y": 158.25,
+      "width": 559.328125,
+      "height": 191.484375,
+      "top": 158.25,
+      "right": 583.328125,
+      "bottom": 349.734375,
+      "left": 24
+    },
+    "header": {
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 68,
+      "top": 0,
+      "right": 768,
+      "bottom": 68,
+      "left": 0
+    },
+    "nav": "none"
+  },
+  {
+    "w": 390,
+    "sw": 390,
+    "font": "Archivo, sans-serif",
+    "h1": {
+      "x": 24,
+      "y": 156.46875,
+      "width": 320.09375,
+      "height": 146.15625,
+      "top": 156.46875,
+      "right": 344.09375,
+      "bottom": 302.625,
+      "left": 24
+    },
+    "header": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 68,
+      "top": 0,
+      "right": 390,
+      "bottom": 68,
+      "left": 0
+    },
+    "nav": "none"
+  },
+  {
+    "w": 375,
+    "sw": 375,
+    "font": "Archivo, sans-serif",
+    "h1": {
+      "x": 24,
+      "y": 156.46875,
+      "width": 320.09375,
+      "height": 146.15625,
+      "top": 156.46875,
+      "right": 344.09375,
+      "bottom": 302.625,
+      "left": 24
+    },
+    "header": {
+      "x": 0,
+      "y": 0,
+      "width": 375,
+      "height": 68,
+      "top": 0,
+      "right": 375,
+      "bottom": 68,
+      "left": 0
+    },
+    "nav": "none"
+  },
+  {
+    "directory": "343px",
+    "cards": 36
+  },
+  {
+    "modal": "#proj-high-rise-specialists",
+    "display": "flex",
+    "focus": "proj-high-rise-specialists",
+    "hidden": "false"
+  },
+  {
+    "afterEscape": "#proj-grid",
+    "openDialogs": 0
+  },
+  {
+    "drawer": "false",
+    "toggle": "true"
+  }
+]

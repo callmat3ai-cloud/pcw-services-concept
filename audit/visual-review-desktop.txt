@@ -1,0 +1,27 @@
+### Layout
+- Full-width dark navy header above a two-column hero section.
+- The left half has a white background with a trust statement, large headline, supporting copy, and two side-by-side calls to action.
+- The right half is occupied by a large construction photo, aligned flush with the header and the statistics strip below.
+- A navy statistics strip spans the page beneath the hero, with four evenly spaced blocks separated by thin vertical rules.
+- A blank white area is visible below the statistics strip.
+
+### Header
+- Large white PCW Contracting Services logo on the left.
+- Horizontal navigation includes Project Services, Property Services, About, Our Work, Resources, and Contact. Small dropdown indicators appear beside some items.
+- A phone icon and **(949) 548-9969** sit toward the right, followed by a bright blue **“Request an Estimate”** button.
+- The header is compact and all visible items fit on one line.
+
+### Typography and buttons
+- The main headline uses a very heavy, condensed, uppercase typeface in dark navy.
+- Navigation, body copy, buttons, and statistics use simpler sans-serif typography.
+- Blue-gray supporting text contrasts with the darker subheading.
+- The primary hero button is solid blue with white text and a right arrow; the secondary button is white with a thin pale border.
+
+### Photo
+- A sharp, brightly lit construction-site image shows a multistory building under construction, tower cranes, workers, trucks, and surrounding roads.
+- The photo fills its entire column without visible gaps or distortion.
+
+### Obvious defects
+- **The headline wraps awkwardly within “EXTRAORDINARY,” displaying “EXTRAORDINA” on one line and “RY SERVICE.” on the next.** This is the most noticeable issue and makes the headline look broken.
+- The headline occupies a relatively narrow area despite substantial empty white space to its right, making that forced word break particularly conspicuous.
+- No other obvious overlaps, missing images, or clipped header elements are visible in this screenshot.

@@ -1,0 +1,6 @@
+Error: Unknown key: "Shift+Tab"
+    at assert (file:///root/.hermes/profiles/marcus-ai-agency/cache/scratch/pcw-qa/node_modules/puppeteer-core/lib/puppeteer/util/assert.js:15:15)
+    at #keyDescriptionForString (file:///root/.hermes/profiles/marcus-ai-agency/cache/scratch/pcw-qa/node_modules/puppeteer-core/lib/puppeteer/cdp/Input.js:72:9)
+    at CdpKeyboard.down (file:///root/.hermes/profiles/marcus-ai-agency/cache/scratch/pcw-qa/node_modules/puppeteer-core/lib/puppeteer/cdp/Input.js:28:58)
+    at CdpKeyboard.press (file:///root/.hermes/profiles/marcus-ai-agency/cache/scratch/pcw-qa/node_modules/puppeteer-core/lib/puppeteer/cdp/Input.js:143:20)
+    at /root/pcw-services-concept/tools/browser_qa.cjs:36:55

@@ -1,0 +1,10 @@
+ship
+
+Scope: visual verification of only the four requested corrections in the supplied current captures.
+
+1. **Project-directory intro contrast — resolved.** Text is readable gray on white in `desktop-services.jpg`.
+2. **Resource-card padding and gaps — resolved.** Cards show consistent internal spacing and regular gaps in `desktop-resources.jpg`.
+3. **Mobile hero image right gutter — resolved.** Image has matching 24px left and right gutters in `390-home.jpg`.
+4. **Contact details separated from intro — resolved.** A divider and substantial spacing separate the intro from the contact section in `390-contact.jpg`.
+
+Approved header and copy remain unchanged in scope; no additional design critique or copy changes requested.

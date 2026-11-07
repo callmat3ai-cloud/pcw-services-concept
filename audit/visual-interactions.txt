@@ -1,0 +1,7 @@
+**SHIP — for the two visible mobile states.** Neither capture demonstrates a material frontend defect. This is a visual verdict, not confirmation that the controls work.
+
+- **Mobile navigation:** Logo, close button, menu labels, chevrons, phone CTA, and estimate CTA are legible and contained within the viewport. No visible overlap, clipped labels, or broken words. The generous empty space separates navigation from the bottom actions cleanly.
+- **Mobile disclosure/modal:** Heading, subtitle, check icons, and body text remain readable. Longer service descriptions wrap normally, with no visible mid-word breaks or collisions. The final visible service continues below the viewport, but the scrollbar indicates a scrolling container; that alone is **not evidence of lost content or a clipping defect**.
+- **Visual direction:** The navy navigation, blue accents, white disclosure surface, and restrained separators support the requested premium architectural style. Nothing shown warrants changing the approved wording or exact dark header.
+
+**Not assessable from these captures:** homepage concision, photography/crops, desktop layout, native cursor behavior, or whether the modal scrolls fully and its controls function. No changes to those should be demanded based on these images alone.

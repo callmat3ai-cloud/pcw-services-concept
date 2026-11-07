@@ -1,0 +1,412 @@
+assets/css/main.css
+  FAIL 7a :314 pure #fff: color: #ffffff (.nav-link:hover, .nav-link:focus-visible, .nav-item:hover > .nav-link) | fix: Tint the base toward the anchor hue
+  FAIL 7a :409 pure #fff: color: #ffffff (.dropdown-item:hover, .dropdown-item:focus-visible)
+  FAIL 7a :459 pure #fff: color: #ffffff (.mobile-nav-toggle)
+  FAIL 7a :537 pure #fff: color: #ffffff (.mobile-close-btn)
+  FAIL 7a :848 pure #fff: color: #ffffff (.division-gateway-section.division-property .btn-secondary-dark)
+  FAIL 7a :855 pure #fff: color: #ffffff (.division-gateway-section.division-property .btn-secondary-dark:hover)
+  FAIL 7a :972 pure #fff: color: #ffffff (.btn-secondary-dark)
+  FAIL 7a :978 pure #fff: color: #ffffff (.btn-secondary-dark:hover)
+  FAIL 48 :142 colour literal rgba(251, 191, 36, 0.1) outside tokens (background on .kicker-pill) | fix: Lift the value into the token block
+  FAIL 48 :143 colour literal rgba(217, 119, 6, 0.25) outside tokens (border on .kicker-pill)
+  FAIL 48 :177 colour literal rgba(0, 0, 0, 0.3) outside tokens (box-shadow on .btn-primary)
+  FAIL 48 :184 colour literal rgba(0, 0, 0, 0.4) outside tokens (box-shadow on .btn-primary:hover)
+  FAIL 48 :190 colour literal rgba(255, 255, 255, 0.35) outside tokens (border-color on .btn-secondary)
+  FAIL 48 :193 colour literal rgba(255, 255, 255, 0.12) outside tokens (background-color on .btn-secondary:hover)
+  FAIL 48 :227 colour literal rgba(0, 0, 0, 0.3) outside tokens (box-shadow on .btn-gold)
+  FAIL 48 :245 colour literal rgba(10, 25, 47, 0.95) outside tokens (background-color on .site-header)
+  FAIL 48 :248 colour literal rgba(255, 255, 255, 0.08) outside tokens (border-bottom on .site-header)
+  FAIL 48 :256 colour literal rgba(10, 25, 47, 0.98) outside tokens (background-color on .site-header.scrolled)
+  FAIL 48 :257 colour literal rgba(255, 255, 255, 0.12) outside tokens (border-bottom-color on .site-header.scrolled)
+  FAIL 48 :258 colour literal rgba(0, 0, 0, 0.5) outside tokens (box-shadow on .site-header.scrolled)
+  FAIL 48 :302 colour literal #f1f5f9 outside tokens (color on .nav-link)
+  FAIL 48 :314 colour literal #ffffff outside tokens (color on .nav-link:hover, .nav-link:fo…)
+  FAIL 48 :315 colour literal rgba(255, 255, 255, 0.08) outside tokens (background-color on .nav-link:hover, .nav-link:fo…)
+  FAIL 48 :342 colour literal rgba(255, 255, 255, 0.12) outside tokens (border on .dropdown-menu)
+  FAIL 48 :343 colour literal rgba(0, 0, 0, 0.7) outside tokens (box-shadow on .dropdown-menu)
+  FAIL 48 :368 colour literal rgba(255, 255, 255, 0.1) outside tokens (border-bottom on .mega-dropdown-header)
+  FAIL 48 :408 colour literal rgba(37, 99, 235, 0.22) outside tokens (background-color on .dropdown-item:hover, .dropdo…)
+  FAIL 48 :409 colour literal #ffffff outside tokens (color on .dropdown-item:hover, .dropdo…)
+  FAIL 48 :439 colour literal #f8fafc outside tokens (color on .header-phone)
+  FAIL 48 :456 colour literal rgba(255, 255, 255, 0.05) outside tokens (background on .mobile-nav-toggle)
+  FAIL 48 :457 colour literal rgba(255, 255, 255, 0.15) outside tokens (border on .mobile-nav-toggle)
+  FAIL 48 :459 colour literal #ffffff outside tokens (color on .mobile-nav-toggle)
+  FAIL 48 :468 colour literal rgba(255, 255, 255, 0.1) outside tokens (background on .mobile-nav-toggle:hover)
+  FAIL 48 :469 colour literal rgba(255, 255, 255, 0.3) outside tokens (border-color on .mobile-nav-toggle:hover)
+  FAIL 48 :476 colour literal rgba(10, 25, 47, 0.85) outside tokens (background on .mobile-drawer)
+  FAIL 48 :497 colour literal #f8fafc outside tokens (color on .mobile-drawer-content)
+  FAIL 48 :498 colour literal rgba(255, 255, 255, 0.1) outside tokens (border-left on .mobile-drawer-content)
+  FAIL 48 :517 colour literal rgba(255, 255, 255, 0.1) outside tokens (border-bottom on .mobile-drawer-header)
+  FAIL 48 :529 colour literal rgba(255, 255, 255, 0.05) outside tokens (background on .mobile-close-btn)
+  FAIL 48 :530 colour literal rgba(255, 255, 255, 0.15) outside tokens (border on .mobile-close-btn)
+  FAIL 48 :537 colour literal #ffffff outside tokens (color on .mobile-close-btn)
+  FAIL 48 :543 colour literal rgba(255, 255, 255, 0.12) outside tokens (background on .mobile-close-btn:hover)
+  FAIL 48 :544 colour literal rgba(255, 255, 255, 0.3) outside tokens (border-color on .mobile-close-btn:hover)
+  FAIL 48 :555 colour literal rgba(255, 255, 255, 0.06) outside tokens (border-bottom on .mobile-nav-item)
+  FAIL 48 :565 colour literal #f8fafc outside tokens (color on .mobile-nav-link)
+  FAIL 48 :599 colour literal #cbd5e1 outside tokens (color on .mobile-sub-link)
+  FAIL 48 :643 colour literal rgba(10, 25, 47, 0.82) outside tokens (background on .hero-scrim)
+  FAIL 48 :643 colour literal rgba(10, 25, 47, 0.62) outside tokens (background on .hero-scrim)
+  FAIL 48 :643 colour literal rgba(10, 25, 47, 0.22) outside tokens (background on .hero-scrim)
+  FAIL 48 :701 colour literal rgba(255, 255, 255, 0.15) outside tokens (border-top on .hero-trust-bar)
+  FAIL 48 :775 colour literal rgba(10, 25, 47, 0.03) outside tokens (background on .division-gateway-section.div…)
+  FAIL 48 :775 colour literal rgba(10, 25, 47, 0.18) outside tokens (background on .division-gateway-section.div…)
+  FAIL 48 :831 colour literal rgba(10, 25, 47, 0.15) outside tokens (background on .division-gateway-section.div…)
+  FAIL 48 :831 colour literal rgba(15, 23, 42, 0.3) outside tokens (background on .division-gateway-section.div…)
+  FAIL 48 :847 colour literal rgba(255, 255, 255, 0.08) outside tokens (background-color on .division-gateway-section.div…)
+  FAIL 48 :848 colour literal #ffffff outside tokens (color on .division-gateway-section.div…)
+  FAIL 48 :849 colour literal rgba(255, 255, 255, 0.2) outside tokens (border on .division-gateway-section.div…)
+  FAIL 48 :853 colour literal rgba(255, 255, 255, 0.15) outside tokens (background-color on .division-gateway-section.div…)
+  FAIL 48 :854 colour literal rgba(255, 255, 255, 0.35) outside tokens (border-color on .division-gateway-section.div…)
+  FAIL 48 :855 colour literal #ffffff outside tokens (color on .division-gateway-section.div…)
+  FAIL 48 :876 colour literal rgba(0, 0, 0, 0.7) outside tokens (box-shadow on .division-image-wrap)
+  FAIL 48 :878 colour literal rgba(255, 255, 255, 0.12) outside tokens (border on .division-image-wrap)
+  FAIL 48 :907 colour literal rgba(10, 25, 47, 0.9) outside tokens (background on .division-image-caption)
+  FAIL 48 :971 colour literal rgba(255, 255, 255, 0.08) outside tokens (background-color on .btn-secondary-dark)
+  FAIL 48 :972 colour literal #ffffff outside tokens (color on .btn-secondary-dark)
+  FAIL 48 :973 colour literal rgba(255, 255, 255, 0.2) outside tokens (border on .btn-secondary-dark)
+  FAIL 48 :976 colour literal rgba(255, 255, 255, 0.15) outside tokens (background-color on .btn-secondary-dark:hover)
+  FAIL 48 :977 colour literal rgba(255, 255, 255, 0.35) outside tokens (border-color on .btn-secondary-dark:hover)
+  FAIL 48 :978 colour literal #ffffff outside tokens (color on .btn-secondary-dark:hover)
+  FAIL 48 :1021 colour literal rgba(0, 0, 0, 0.05) outside tokens (box-shadow on .differentiator-card)
+  FAIL 48 :1028 colour literal rgba(0, 0, 0, 0.12) outside tokens (box-shadow on .differentiator-card:hover)
+  FAIL 48 :1114 colour literal rgba(255, 255, 255, 0.04) outside tokens (background on .cap-card)
+  FAIL 48 :1115 colour literal rgba(255, 255, 255, 0.1) outside tokens (border on .cap-card)
+  FAIL 48 :1133 colour literal rgba(37, 99, 235, 0.15) outside tokens (background on .cap-card-icon)
+  FAIL 48 :1219 colour literal rgba(255, 255, 255, 0.1) outside tokens (border-bottom on .subpage-hero)
+  FAIL 48 :1402 colour literal rgba(255, 255, 255, 0.15) outside tokens (border-color on .sidebar-card-dark .sidebar-t…)
+  FAIL 48 :1459 colour literal rgba(255, 255, 255, 0.08) outside tokens (border-top on .contact-section)
+  FAIL 48 :1477 colour literal rgba(14, 30, 56, 0.85) outside tokens (background on .contact-section .form-control)
+  FAIL 48 :1478 colour literal rgba(255, 255, 255, 0.16) outside tokens (border on .contact-section .form-control)
+  FAIL 48 :1483 colour literal rgba(18, 38, 70, 0.95) outside tokens (background on .contact-section .form-contro…)
+  FAIL 48 :1484 colour literal rgba(56, 189, 248, 0.25) outside tokens (box-shadow on .contact-section .form-contro…)
+  FAIL 48 :1620 colour literal rgba(37, 99, 235, 0.15) outside tokens (box-shadow on .form-control:focus)
+  FAIL 48 :1839 colour literal rgba(255, 255, 255, 0.1) outside tokens (border-top on .site-footer)
+  FAIL 48 :1908 colour literal rgba(255, 255, 255, 0.1) outside tokens (border-top on .footer-bottom)
+  FAIL 48 :2088 colour literal rgba(255, 255, 255, 0.1) outside tokens (border-top on .stats-band)
+  FAIL 48 :2089 colour literal rgba(255, 255, 255, 0.1) outside tokens (border-bottom on .stats-band)
+  FAIL 48 :2112 colour literal rgba(255, 255, 255, 0.08) outside tokens (border-bottom on #proj-grid)
+  FAIL 48 :2113 colour literal rgba(255, 255, 255, 0.08) outside tokens (border-bottom on #prop-grid)
+  FAIL 48 :2122 colour literal rgba(255, 255, 255, 0.12) outside tokens (border on .dir-card)
+  FAIL 48 :2125 colour literal rgba(18, 38, 70, 0.75) outside tokens (background-color on .dir-card)
+  FAIL 48 :2127 colour literal rgba(0, 0, 0, 0.45) outside tokens (box-shadow on .dir-card)
+  FAIL 48 :2135 colour literal rgba(14, 30, 56, 0.85) outside tokens (background-color on #prop-grid .dir-card)
+  FAIL 48 :2139 colour literal rgba(0, 0, 0, 0.65) outside tokens (box-shadow on .dir-card:hover)
+  FAIL 48 :2140 colour literal rgba(56, 189, 248, 0.6) outside tokens (border-color on .dir-card:hover)
+  FAIL 48 :2143 colour literal rgba(251, 191, 36, 0.65) outside tokens (border-color on #prop-grid .dir-card:hover)
+  FAIL 48 :2154 colour literal rgba(29, 99, 237, 0.25) outside tokens (border on .dir-open)
+  FAIL 48 :2173 colour literal rgba(10, 25, 47, 0.7) outside tokens (background on .modal)
+  FAIL 48 :2253 colour literal rgba(255, 255, 255, 0.08) outside tokens (border-top on .testimonials-section)
+  FAIL 48 :2254 colour literal rgba(255, 255, 255, 0.08) outside tokens (border-bottom on .testimonials-section)
+  FAIL 48 :2266 colour literal rgba(255, 255, 255, 0.04) outside tokens (background on .testimonials-section .review…)
+  FAIL 48 :2267 colour literal rgba(255, 255, 255, 0.1) outside tokens (border on .testimonials-section .review…)
+  FAIL 48 :2271 colour literal rgba(0, 0, 0, 0.3) outside tokens (box-shadow on .testimonials-section .review…)
+  FAIL 48 :2276 colour literal rgba(56, 189, 248, 0.4) outside tokens (border-color on .testimonials-section .review…)
+  FAIL 48 :2277 colour literal rgba(0, 0, 0, 0.5) outside tokens (box-shadow on .testimonials-section .review…)
+  FAIL 48 :2319 colour literal rgba(10, 25, 47, 0.06) outside tokens (box-shadow on .knowledge-hub-preview-sectio…)
+  FAIL 48 :2326 colour literal rgba(10, 25, 47, 0.12) outside tokens (box-shadow on .knowledge-hub-preview-sectio…)
+  FAIL 48 :2375 colour literal rgba(37, 99, 235, 0.3) outside tokens (box-shadow on .dir-btn-quote)
+  FAIL 48 :2382 colour literal rgba(37, 99, 235, 0.45) outside tokens (box-shadow on .dir-btn-quote:hover)
+  FAIL 48 :2386 colour literal rgba(255, 255, 255, 0.08) outside tokens (background on .dir-btn-learn)
+  FAIL 48 :2388 colour literal rgba(255, 255, 255, 0.18) outside tokens (border on .dir-btn-learn)
+  FAIL 48 :2392 colour literal rgba(255, 255, 255, 0.16) outside tokens (background on .dir-btn-learn:hover)
+  FAIL 48 :2394 colour literal rgba(255, 255, 255, 0.35) outside tokens (border-color on .dir-btn-learn:hover)
+  FAIL 67 :124 .kicker: uppercase tracked 0.14em at 12px in a label role | fix: Labels, captions, table heads, nav links and meta are the body face (or the theme's label face), a step smaller, sentence case, untracked
+  FAIL 67 :141 .kicker-pill: uppercase tracked 0.1em at 12px in a label role
+  FAIL 67 :716 .trust-item-label: uppercase tracked 0.08em at 12px in a label role
+  FAIL 67 :915 .division-image-caption-tag: uppercase tracked 0.1em at 12px in a label role
+  FAIL 67 :1040 .differentiator-num: letter-spaced tracked 0.1em at 13px in a label role
+  FAIL 67 :1926 .footer-license-badge: letter-spaced tracked 0.06em at 12px in a label role
+  FAIL 67 :2105 .stat-label: uppercase tracked 0.08em at 14px in a label role
+  FAIL 67 :2210 .review-cat: uppercase tracked 0.08em at 12px in a label role
+  REFLEX 7b :175 pure #fff: color: var(--white) (.btn-primary) | fix: Tint the base toward the anchor hue
+  REFLEX 7b :182 pure #fff: color: var(--white) (.btn-primary:hover)
+  REFLEX 7b :189 pure #fff: color: var(--white) (.btn-secondary)
+  REFLEX 7b :194 pure #fff: border-color: var(--white) (.btn-secondary:hover)
+  REFLEX 7b :195 pure #fff: color: var(--white) (.btn-secondary:hover)
+  REFLEX 7b :200 pure #fff: background-color: var(--white) (.btn-secondary-light)
+  REFLEX 7b :213 pure #fff: color: var(--white) (.btn-dark)
+  REFLEX 7b :219 pure #fff: color: var(--white) (.btn-dark:hover)
+  REFLEX 7b :232 pure #fff: color: var(--white) (.btn-gold:hover)
+  REFLEX 7b :622 pure #fff: color: var(--white) (.hero-section)
+  REFLEX 7b :671 pure #fff: color: var(--white) (.hero-title)
+  REFLEX 7b :713 pure #fff: color: var(--white) (.trust-item-value)
+  REFLEX 7b :738 pure #fff: background-color: var(--white) (.division-gateway-section.division-project)
+  REFLEX 7b :794 pure #fff: background-color: var(--white) (.division-gateway-section.division-property)
+  REFLEX 7b :843 pure #fff: color: var(--white) (.division-gateway-section.division-property .btn-gold:hover)
+  REFLEX 7b :908 pure #fff: color: var(--white) (.division-image-caption)
+  REFLEX 7b :986 pure #fff: background-color: var(--white) (.proof-section)
+  REFLEX 7b :1020 pure #fff: background-color: var(--white) (.differentiator-card)
+  REFLEX 7b :1095 pure #fff: color: var(--white) (.capabilities-teaser-section)
+  REFLEX 7b :1144 pure #fff: color: var(--white) (.cap-card h3)
+  REFLEX 7b :1175 pure #fff: color: var(--white) (.cta-strip-section)
+  REFLEX 7b :1195 pure #fff: color: var(--white) (.cta-strip-text h2)
+  REFLEX 7b :1217 pure #fff: color: var(--white) (.subpage-hero)
+  REFLEX 7b :1237 pure #fff: color: var(--white) (.breadcrumbs a:hover)
+  REFLEX 7b :1249 pure #fff: color: var(--white) (.subpage-hero h1)
+  REFLEX 7b :1265 pure #fff: background-color: var(--white) (.service-detail-section)
+  REFLEX 7b :1388 pure #fff: color: var(--white) (.sidebar-card-dark)
+  REFLEX 7b :1401 pure #fff: color: var(--white) (.sidebar-card-dark .sidebar-title)
+  REFLEX 7b :1447 pure #fff: background-color: var(--white) (.sidebar-link-item:hover)
+  REFLEX 7b :1458 pure #fff: color: var(--white) (.contact-section)
+  REFLEX 7b :1462 pure #fff: color: var(--white) (.contact-section .section-h2)
+  REFLEX 7b :1474 pure #fff: color: var(--white) (.contact-details-list a)
+  REFLEX 7b :1479 pure #fff: color: var(--white) (.contact-section .form-control)
+  REFLEX 7b :1530 pure #fff: background-color: var(--white) (.contact-detail-icon)
+  REFLEX 7b :1561 pure #fff: background-color: var(--white) (.form-card)
+  REFLEX 7b :1611 pure #fff: background-color: var(--white) (.form-control)
+  REFLEX 7b :1646 pure #fff: color: var(--white) (.toast-notice)
+  REFLEX 7b :1674 pure #fff: background-color: var(--white) (.guide-phase-card)
+  REFLEX 7b :1720 pure #fff: background: var(--white) (.hub-topic-card)
+  REFLEX 7b :1763 pure #fff: color: var(--white) (.gallery-filter-btn:hover, .gallery-filter-btn.active)
+  REFLEX 7b :1777 pure #fff: background-color: var(--white) (.work-card)
+  REFLEX 7b :1837 pure #fff: color: var(--white) (.site-footer)
+  REFLEX 7b :1868 pure #fff: color: var(--white) (.footer-col-title)
+  REFLEX 7b :1900 pure #fff: color: var(--white) (.footer-contact-info a)
+  REFLEX 7b :2145 pure #fff: color: var(--white) (.dir-card h3)
+  REFLEX 7b :2165 pure #fff: color: var(--white) (.dir-card:hover .dir-open)
+  REFLEX 7b :2176 pure #fff: background: var(--white) (.modal-card)
+  REFLEX 7b :2224 pure #fff: color: var(--white) (.license-block)
+  REFLEX 7b :2252 pure #fff: color: var(--white) (.testimonials-section)
+  REFLEX 7b :2257 pure #fff: color: var(--white) (.testimonials-section .section-h2)
+  REFLEX 7b :2270 pure #fff: color: var(--white) (.testimonials-section .review-card)
+  REFLEX 7b :2285 pure #fff: color: var(--white) (.testimonials-section .review-name)
+  REFLEX 7b :2299 pure #fff: background-color: var(--white) (.knowledge-hub-preview-section)
+  REFLEX 7b :2317 pure #fff: background-color: var(--white) (.knowledge-hub-preview-section .hub-topic-card)
+  REFLEX 7b :2345 pure #fff: color: var(--white) (.dir-lead strong)
+  REFLEX 7b :2373 pure #fff: color: var(--white) (.dir-btn-quote)
+  REFLEX 7b :2393 pure #fff: color: var(--white) (.dir-btn-learn:hover)
+  REFLEX 26b :1 no :active styling anywhere | fix: All eight states; guard: not a form control, no aria-disabled anywhere
+  REFLEX 26b :1 no :disabled styling anywhere
+  REFLEX 38iii :1691 accented word inside a heading (.guide-phase-card h3 i) | fix: Set the whole head one way: a line break, a second line at a second size, or the whole head in the accent. Guard: the theme names the coloured word as its signature and it appears once on the page, in the hero
+  REFLEX 38iii :2228 accented word inside a heading (.license-block h3 span)
+  REFLEX 64 :128 monospace label voice on .kicker | fix: Labels in the body face, a step smaller, sentence case; mono only for code and figures
+  REFLEX 64 :151 monospace label voice on .kicker-pill
+  REFLEX 64 :719 monospace label voice on .trust-item-label
+  REFLEX 64 :916 monospace label voice on .division-image-caption-tag
+  REFLEX 64 :1927 monospace label voice on .footer-license-badge
+  WARN 3 :1109 3 equal icon-tile columns on .capabilities-teaser-grid | fix: Vary column widths or drop the icon tiles
+  WARN 11 :1027 the hover lift (translateY plus shadow) on 8 selectors (.btn-primary, .btn-gold, .differentiator-ca…) | fix: One signal per element; the same lift on every card is the template
+  WARN 11 :1798 image transforms on hover (.work-card:hover .work-card-media img) | fix: Imagery sits still; give the container the feedback
+  WARN 40 :81 1.20:1 < 4.5:1 on body | fix: Raise the contrast to threshold
+  WARN 40 :1458 1.08:1 < 4.5:1 on .contact-section
+  WARN 41 :1786 dark surface (L 27%) on .work-card-media sets no text colour | fix: Swap text to paper in the same rule
+  WARN 41 :2087 dark surface (L 21%) on .stats-band sets no text colour
+  WARN 41 :2111 dark surface (L 21%) on .dir-section sets no text colour
+  WARN 74 :31 default Tailwind palette #f8fafc on --slate-50 | fix: Mix the colour for this page in OKLCH; a stock swatch is the AI look
+  WARN 74 :36 default Tailwind palette #64748b on --slate-500
+  WARN 74 :39 default Tailwind palette #1e293b on --slate-800
+  WARN 74 :40 default Tailwind palette #0f172a on --slate-900
+  WARN F3 :1192 no text-wrap: balance on any display head (10 head rule(s), e.g. .cta-strip-text h2) | fix: Add text-wrap: balance to h1/h2-level heads
+  WARN F6 :2101 numeric selector .stat-value at display size without tabular figures | fix: Add font-variant-numeric: tabular-nums
+  WARN F7 :1016 same container recipe on 6 selectors (.differentiator-card, .cap-card, .review-card, …...) | fix: Vary weight, radius, or fill by role; not every box is the same box
+  WARN F15 :1 2 container widths on one page (1240, 940px) | fix: One container width, applied by the same two-element pattern in every section
+  WARN F15 :1 12 different column gaps across multi-column sections (3.5rem, 2rem, 3rem, 70px, 52px, 40px, 32px, 60px, 75px, 65px, 72… | fix: One column gap for every multi-column section
+  WARN F24 :343 a hairline border under a wide soft shadow on .dropdown-menu | fix: Commit to one: a defined edge, or elevation by shadow
+index.html
+  FAIL 54 :314 eyebrow "Project Services // Large Scale…" before <h2> | fix: Cut it; the heading already says this (craft.md § 7 has twelve other openings)
+  FAIL 54 :495 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :515 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :535 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :555 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :575 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :595 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :615 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :635 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :653 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :673 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :693 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :713 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :733 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :751 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :771 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :790 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :809 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :829 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :847 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :867 eyebrow "Project Services Division" before <h3>
+  FAIL 54 :1035 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1053 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1073 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1093 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1111 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1131 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1149 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1169 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1189 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1209 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1229 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1247 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1266 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1286 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1304 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1322 eyebrow "Property Services Division" before <h3>
+  FAIL 54 :1340 eyebrow "The PCW Difference" before <h2>
+  FAIL 54 :1347 eyebrow "01" before <h3>
+  FAIL 54 :1352 eyebrow "02" before <h3>
+  FAIL 54 :1357 eyebrow "03" before <h3>
+  FAIL 54 :1362 eyebrow "04" before <h3>
+  FAIL 54 :1367 eyebrow "05" before <h3>
+  FAIL 54 :1372 eyebrow "06" before <h3>
+  FAIL 54 :1377 eyebrow "07" before <h3>
+  FAIL 54 :1382 eyebrow "08" before <h3>
+  FAIL 54 :1387 eyebrow "09" before <h3>
+  FAIL 54 :1392 eyebrow "10" before <h3>
+  FAIL 54 :1397 eyebrow "11" before <h3>
+  FAIL 54 :1402 eyebrow "12" before <h3>
+  FAIL 54 :1438 eyebrow "Our Work" before <h2>
+  FAIL 54 :1454 eyebrow "Reviews" before <h2>
+  FAIL 54 :1508 eyebrow "Resources" before <h2>
+  FAIL 54 :1517 eyebrow "Knowledge Hub" before <h3>
+  FAIL 54 :1525 eyebrow "Knowledge Hub" before <h3>
+  FAIL 54 :1533 eyebrow "Knowledge Hub" before <h3>
+  FAIL 54 :1541 eyebrow "Knowledge Hub" before <h3>
+  FAIL 54 :1553 eyebrow "Contact" before <h2>
+  FAIL 63 :96 arrow glued to the label "View All Project Services →" | fix: A verb as the label; the link already says it goes somewhere
+  FAIL 63 :133 arrow glued to the label "View All Property Services →"
+  FAIL 63 :229 arrow glued to the label "Overview: All Project Services →"
+  FAIL 63 :240 arrow glued to the label "Overview: All Property Services →"
+  FAIL 63 :1408 middle-dot meta string "B – General Contractor • C39 – Roofing Contractor…" | fix: Line breaks, columns or hairlines; one dot in a byline at most
+  FAIL 63 :1442 arrow glued to the label "View All Work →"
+  FAIL 63 :1634 middle-dot meta string "PCW #699611 B • C39 • C53 • C27"
+  FAIL 63 :1635 middle-dot meta string "PCW #699611 B • C39 • C53 • C27"
+  FAIL 63 :1692 middle-dot meta string "Affiliations: CAI • CACM • National Roofing Assoc…"
+  FAIL 63 :1693 middle-dot meta string "Affiliations: CAI • CACM • National Roofing Assoc…"
+  FAIL 67 :1635 "PCW #699611 B • C39 • C53 • C27" typed in capitals at 15px tracked 0.06em (<span class="footer-license-badge">) | fix: Sentence case in the body face; capitals survive only as a wordmark or as the display voice
+  REFLEX 25 :1 [1440px] running prose set too wide: p.dir-lead about 100 characters a line | fix: Cap the measure at 45 to 75ch
+  REFLEX 39b :1 [1440px] control height outside 44 to 52px: a.btn 55px | fix: Marketing controls stand 44 to 52px; app UI 32 to 40px with a 44px hit target
+  REFLEX 44c :1 [1440px] hero ends at 340px of a 900px screen | fix: Fill the first screen with the visual or the headline, not with copy
+  REFLEX 59 :1 [1440px] smallest gap between sections is 32px (gaps: 32, 123, 56, 48, 179, 176, 153) | fix: 120px or more between sections, by the --section-gap steps
+  REFLEX 79 :1 [1440px] 492px of nothing between the hero's last content (y 340) and the next section | fix: Centre the content in the screen and grow the visual or the head (layout.md § 6); never fill it with copy
+  WARN 42 :1623 default footer shape: 4 equal columns of links | fix: Decide the footer and name it in the stamp, or build another shape
+  WARN 59 :1 [1440px] 12 sections | fix: Six to nine sections a page, hero and footer included; merge or cut
+  WARN F19 :1 [1440px] 4 font weights in running use (400, 500, 600, 700) | fix: Three weights at most, display and body together, picked as extremes
+  WARN F20 :1 [1440px] div.affiliation-strip leaves one item alone on its last row (7 + 1) | fix: Change the count or the columns so the last row is not an orphan
+  WARN F26 :1 [375px] h2 "About // Why Choose PCW" ends on a stub; h2 "Knowledge Hub // ~25 Topics" ends on a stub | fix: text-wrap: balance on heads and pretty on body copy, or rewrite the line; a <br> goes only between phrases and is checked at 375
+  NOTE 19 :316 dash "—" in copy | fix: A comma, a colon, a full stop or parentheses; never a dash
+  NOTE 19 :334 stock link label "Learn More" x72 | fix: Say where each link goes: the thing it opens, in its own noun
+  NOTE 19 :503 buzzword "elevate" | fix: Say what the product does, in its own nouns
+  NOTE 19 :621 buzzword "elevated"
+  NOTE 19 :679 buzzword "seamless"
+  NOTE 19 :1690 template footer line: "All rights reserved" | fix: A stock line with no legal effect; cut it unless the owner wants it
+  NOTE 58 :1 2101 visible words on the page (450 at most) | fix: Cut copy: one idea per screen, sections become objects
+  NOTE 58 :1 [1440px] 518 words on one screen (from y=2600) | fix: One idea per screen: cut to about 80 words, make the section an object
+assets/css/concept.css
+  REFLEX 7b :24 pure #fff: background: var(--c-paper) (body)
+  REFLEX 7b :41 pure #fff: background: var(--c-paper) (.concept-home .hero-section)
+  REFLEX 7b :53 pure #fff: color: var(--c-paper) (.concept-ledger)
+  REFLEX 7b :56 pure #fff: color: var(--c-paper) (.concept-ledger .trust-item-value)
+  REFLEX 7b :59 pure #fff: background: var(--c-paper) (.division-gateway-section.division-project, .division-gateway-section.division-p…
+  REFLEX 7b :73 pure #fff: background: var(--c-paper) (.dir-section, #proj-grid, #prop-grid)
+  REFLEX 7b :81 pure #fff: background: var(--c-paper) (.dir-card, #prop-grid .dir-card)
+  REFLEX 7b :82 pure #fff: background: var(--c-paper) (.dir-card:hover, #prop-grid .dir-card:hover)
+  REFLEX 7b :87 pure #fff: color: var(--c-paper) (.dir-btn-quote)
+  REFLEX 7b :88 pure #fff: background: var(--c-paper) (.dir-btn-learn)
+  REFLEX 7b :105 pure #fff: color: var(--c-paper) (.license-block h3)
+  REFLEX 7b :111 pure #fff: color: var(--c-paper) (.capabilities-header .section-h2 span)
+  REFLEX 7b :119 pure #fff: color: var(--c-paper) (.cap-card-link)
+  REFLEX 7b :121 pure #fff: background: var(--c-paper) (.testimonials-section)
+  REFLEX 7b :151 pure #fff: background: var(--c-paper) (.service-detail-section)
+  REFLEX 7b :161 pure #fff: color: var(--c-paper) (.sidebar-card-dark)
+  REFLEX 7b :166 pure #fff: color: var(--c-paper) (.cta-strip-section)
+  REFLEX 7b :167 pure #fff: color: var(--c-paper) (.cta-strip-text h2)
+  REFLEX 7b :168 pure #fff: color: var(--c-paper) (.cta-strip-section .btn-secondary)
+  REFLEX 7b :176 pure #fff: background: var(--c-paper) (.contact-section .form-control)
+  REFLEX 7b :181 pure #fff: background: var(--c-paper) (.form-card)
+  REFLEX 7b :183 pure #fff: background: var(--c-paper) (.work-card)
+  REFLEX 7b :192 pure #fff: background: var(--c-paper) (.modal-card)
+  REFLEX 7b :253 pure #fff: background: var(--c-paper) (.concept-home .hero-section)
+  REFLEX 7b :264 pure #fff: color: var(--c-paper) (.concept-home .hero-caption)
+  REFLEX 7b :265 pure #fff: color: var(--c-paper) (.concept-home .hero-subtitle)
+  REFLEX 7b :268 pure #fff: background: var(--c-paper) (.concept-home .concept-ledger)
+  REFLEX 7b :281 pure #fff: color: var(--c-paper) (.concept-home .division-property .section-h2, .concept-home .division-property .secti…
+  REFLEX 7b :283 pure #fff: color: var(--c-paper) (.concept-home .division-property .chapter-link)
+  REFLEX 7b :284 pure #fff: color: var(--c-paper) (.concept-home #prop-grid)
+  REFLEX 7b :287 pure #fff: color: var(--c-paper) (.concept-home #prop-grid summary)
+  REFLEX 7b :290 pure #fff: color: var(--c-paper) (.concept-home #prop-grid .dir-card h3)
+  REFLEX 7b :292 pure #fff: color: var(--c-paper) (.concept-home #prop-grid .dir-btn-learn)
+  REFLEX 7b :294 pure #fff: background: var(--c-paper) (.explorer-search)
+  REFLEX 7b :297 pure #fff: background: var(--c-paper) (.concept-home .proof-section)
+  REFLEX 7b :307 pure #fff: background: var(--c-paper) (.concept-home .knowledge-hub-preview-section)
+  REFLEX 7b :309 pure #fff: color: var(--c-paper) (.concept-home .knowledge-hub-preview-section .hub-topic-card:first-child)
+  REFLEX 7b :310 pure #fff: color: var(--c-paper) (.concept-home .knowledge-hub-preview-section .hub-topic-card:first-child h3)
+  REFLEX 7b :312 pure #fff: color: var(--c-paper) (.concept-home .knowledge-hub-preview-section .hub-topic-card:first-child a)
+  REFLEX 7b :354 pure #fff: background: var(--c-paper) (.concept-home .knowledge-hub-preview-section .hub-topic-card)
+  REFLEX 7b :356 pure #fff: color: var(--c-paper) (.concept-home .knowledge-hub-preview-section .hub-topic-card:first-child)
+  REFLEX 7b :357 pure #fff: color: var(--c-paper) (.concept-home .knowledge-hub-preview-section .hub-topic-card:first-child h3)
+  REFLEX 7b :359 pure #fff: color: var(--c-paper) (.concept-home .knowledge-hub-preview-section .hub-topic-card:first-child > span)
+  REFLEX 24b :48 margin-bottom: 27px (off the 4px scale) on .concept-home .hero-content > .kicker | fix: Use the 4px spacing scale
+  REFLEX 24b :50 margin-bottom: 29px (off the 4px scale) on .concept-home .hero-lead
+  REFLEX 24b :51 gap: 14px (off the 4px scale) on .concept-home .hero-actions
+  REFLEX 24b :55 gap: 3px (off the 4px scale) on .concept-ledger .trust-item
+  REFLEX 24b :59 padding: 90px 0 36px (off the 4px scale) on .division-gateway-section.division-project, .division-gateway-section.divis…
+  REFLEX 24b :60 gap: 70px (off the 4px scale) on .division-grid, .division-grid.reverse
+  REFLEX 24b :68 margin-bottom: 22px (off the 4px scale) on .division-gateway-section .kicker
+  REFLEX 24b :74 margin-bottom: 22px (off the 4px scale) on .dir-lead, .dir-lead strong
+  REFLEX 24b :76 padding: 18px 0 (off the 4px scale) on summary
+  REFLEX 24b :81 gap: 8px 18px (off the 4px scale) on .dir-card, #prop-grid .dir-card
+  REFLEX 24b :81 padding: 25px 0 (off the 4px scale) on .dir-card, #prop-grid .dir-card
+  REFLEX 24b :86 padding: 10px 12px (off the 4px scale) on .dir-btn
+  REFLEX 24b :91 padding: 82px 0 (off the 4px scale) on .proof-section
+  REFLEX 24b :92 margin: 0 0 35px (off the 4px scale) on .proof-header
+  REFLEX 24b :104 padding: 30px (off the 4px scale) on .license-block
+  REFLEX 24b :104 margin-top: 25px (off the 4px scale) on .license-block
+  REFLEX 24b :108 gap: 50px (off the 4px scale) on .capabilities-header
+  REFLEX 24b :114 padding: 25px 0 0 (off the 4px scale) on .cap-card
+  REFLEX 24b :117 margin-bottom: 18px (off the 4px scale) on .cap-card h3
+  REFLEX 24b :119 margin-top: 25px (off the 4px scale) on .cap-card-link
+  REFLEX 24b :121 padding: 85px 0 (off the 4px scale) on .testimonials-section
+  REFLEX 24b :126 padding: 30px 0 (off the 4px scale) on .review-card, .testimonials-section .review-card
+  REFLEX 24b :134 padding: 75px 0 (off the 4px scale) on .knowledge-hub-preview-section
+  REFLEX 24b :136 padding: 26px 0 (off the 4px scale) on .hub-topic-card, .knowledge-hub-preview-section .hub-topic-card
+  REFLEX 24b :142 padding: 66px 0 75px (off the 4px scale) on .subpage-hero
+  REFLEX 24b :145 margin-top: 25px (off the 4px scale) on .subpage-hero p.subpage-lead
+  REFLEX 24b :147 padding: 48px 0 65px (off the 4px scale) on .concept-service .subpage-hero
+  REFLEX 24b :152 gap: 75px (off the 4px scale) on .service-layout-grid
+  REFLEX 24b :153 margin: 45px 0 22px (off the 4px scale) on .service-main-content h2
+  REFLEX 24b :156 margin: 25px 0 (off the 4px scale) on .service-bullets
+  REFLEX 24b :157 padding: 18px 0 (off the 4px scale) on .service-bullets li
+  REFLEX 24b :159 margin-top: 5px (off the 4px scale) on .service-bullets li svg
+  REFLEX 24b :166 padding: 65px 0 (off the 4px scale) on .cta-strip-section
+  REFLEX 24b :170 padding: 75px 0 (off the 4px scale) on .contact-section
+  REFLEX 24b :175 gap: 65px (off the 4px scale) on .contact-layout
+  REFLEX 24b :180 gap: 22px 18px (off the 4px scale) on .form-grid
+  REFLEX 24b :192 padding: 42px (off the 4px scale) on .modal-card
+  REFLEX 24b :202 padding: 50px 30px (off the 4px scale) on .concept-home .hero-section > .container
+  REFLEX 24b :204 gap: 35px (off the 4px scale) on .division-grid, .division-grid.reverse
+  REFLEX 24b :205 gap: 35px (off the 4px scale) on .service-layout-grid
+  REFLEX 24b :206 gap: 35px (off the 4px scale) on .contact-layout
+  REFLEX 24b :207 column-gap: 30px (off the 4px scale) on .dir-grid
+  REFLEX 24b :211 padding: 42px 24px (off the 4px scale) on .concept-home .hero-section > .container
+  REFLEX 24b :214 gap: 25px (off the 4px scale) on .concept-ledger .hero-trust-bar
+  REFLEX 24b :215 gap: 30px (off the 4px scale) on .division-grid, .division-grid.reverse
+  REFLEX 24b :217 padding-top: 58px (off the 4px scale) on .division-gateway-section.division-project, .division-gateway-section.division…
+  REFLEX 24b :221 gap: 25px (off the 4px scale) on .capabilities-header
+  REFLEX 24b :225 margin: 35px 24px -25px (off the 4px scale) on .service-hero-photo
+  REFLEX 24b :235 padding-left: 10px (off the 4px scale) on .concept-ledger .trust-item
+  REFLEX 24b :238 column-gap: 10px (off the 4px scale) on .dir-card
+  REFLEX 24b :241 padding: 10px 8px (off the 4px scale) on .dir-btn
+  REFLEX 24b :244 padding: 35px 0 45px (off the 4px scale) on .subpage-hero
+  REFLEX 24b :247 padding: 28px 22px (off the 4px scale) on .modal-card
+  REFLEX 24b :258 padding-bottom: 3px (off the 4px scale) on .concept-home .hero-intro
+  REFLEX 24b :276 gap: 30px (off the 4px scale) on .chapter-link
+  REFLEX 24b :303 margin: 0 auto 30px (off the 4px scale) on .concept-home .testimonials-section > .container > .review-grid
+  REFLEX 24b :304 padding: 42px 0 32px 70px (off the 4px scale) on .concept-home .featured-review
+  REFLEX 24b :330 padding-left: 45px (off the 4px scale) on .concept-home .featured-review
+  REFLEX 24b :335 gap: 10px (off the 4px scale) on .explorer-tools
+  REFLEX 37 :30 4 font families: bebas neue, dm sans, dm mono, archivo | fix: Drop the extra family; three is the ceiling
+  REFLEX 38iii :144 accented word inside a heading (.subpage-hero h1 span)
+  WARN 3 :113 3 equal icon-tile columns on .capabilities-teaser-grid
+  WARN F6 :295 numeric selector .explorer-status at display size without tabular figures
+http://127.0.0.1:8765/
+  REFLEX 25 :1 [1440px] running prose set too wide: p.dir-lead about 100 characters a line
+  REFLEX 39b :1 [1440px] control height outside 44 to 52px: a.btn 55px
+  REFLEX 44c :1 [1440px] hero ends at 340px of a 900px screen
+  REFLEX 59 :1 [1440px] smallest gap between sections is 32px (gaps: 32, 123, 56, 48, 179, 176, 153)
+  REFLEX 79 :1 [1440px] 492px of nothing between the hero's last content (y 340) and the next section
+  WARN 59 :1 [1440px] 12 sections
+  WARN F19 :1 [1440px] 4 font weights in running use (400, 500, 600, 700)
+  WARN F20 :1 [1440px] div.affiliation-strip leaves one item alone on its last row (7 + 1)
+  WARN F26 :1 [375px] h2 "About // Why Choose PCW" ends on a stub; h2 "Knowledge Hub // ~25 Topics" ends on a stub
+  NOTE 58 :1 [1440px] 518 words on one screen (from y=2600)
+sloplint: 189 FAIL, 180 REFLEX, 29 WARN, 9 NOTE across 1 file(s) and 1 URL(s).

@@ -1,0 +1,17 @@
+**Ship — no material rendering defects are visible in these four captures.** The navy/blue palette, restrained typography, architectural photography, and generous whitespace support the intended premium direction. Keep the approved wording and exact dark header.
+
+### Specific findings
+
+- **Contact: tight spacing before the contact details.** On both desktop and mobile, the introductory paragraph ending “24 business hours” runs almost directly into “Headquarters.” This weakens the separation between the introduction and the address list. Add a modest gap above the first contact-detail row; no copy change is needed. This is polish, not a shipping blocker.
+
+- **Mobile contact: the form is not visible in the supplied viewport.** At 390px, the introduction and contact information come before the form, despite “submit the form below” being the primary instruction. That is a noticeable path-length concern, **not evidence that the form is broken or unusable**. Its actual mobile layout cannot be assessed from this capture.
+
+### Checks that pass visibly
+
+- **No broken words, collisions, or horizontal clipping** in the visible headings, navigation, body copy, or desktop form fields. Mobile headings wrap at word boundaries.
+- **Decking photo crops work at both sizes:** the deck remains the dominant subject, with the building and coastline providing context.
+- **Text is legible** against the light backgrounds; the dark header and blue estimate button remain clear at both widths.
+- **Mobile header fits:** logo, estimate button, and menu control are visibly separated. No header redesign is warranted.
+- Content cut off at the **bottom edge of these screenshots** is normal viewport continuation, not demonstrated clipping.
+
+**Evidence limits:** No homepage, disclosure-open states, mobile form, or cursor behavior is shown. Those cannot be approved or criticized from these images alone.
