@@ -2,3 +2,9 @@ _site/
 .hallmark/
 __pycache__/
 sloplint.txt
+.impeccable/
+PRODUCT.md
+DESIGN.md
+PROJECT-NOTES.md
+audit/
+tools/gen/__pycache__/

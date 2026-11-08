@@ -1,4 +1,4 @@
-name: Deploy static concept to GitHub Pages
+name: Deploy PCW concept preview
 
 on:
   push:
@@ -15,18 +15,28 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stage public site only
+        run: |
+          mkdir -p _publish
+          cp -r index.html robots.txt .nojekyll _publish/
+          for d in about our-work testimonials knowledge-hub project-services property-services services assets; do
+            [ -d "$d" ] && cp -r "$d" _publish/
+          done
+          rm -rf _publish/assets/css/concept.css _publish/assets/css/main.css
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _publish
   deploy:
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - name: Stage public site only
-        run: python3 tools/stage_site.py
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
       - id: deployment
         uses: actions/deploy-pages@v4
