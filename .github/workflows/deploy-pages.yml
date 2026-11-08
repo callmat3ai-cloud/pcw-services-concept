@@ -23,7 +23,7 @@ jobs:
         run: |
           mkdir -p _publish
           cp -r index.html robots.txt .nojekyll _publish/
-          for d in about our-work testimonials knowledge-hub project-services property-services services assets; do
+          for d in about contact our-work testimonials knowledge-hub project-services property-services services assets; do
             [ -d "$d" ] && cp -r "$d" _publish/
           done
           rm -rf _publish/assets/css/concept.css _publish/assets/css/main.css
