@@ -648,6 +648,49 @@ li { margin-bottom: var(--s1); }
 .chapter--dark .chip--solid { background: var(--amber); border-color: var(--amber); color: var(--ink); }
 .chapter--dark .chip--solid:hover { background: var(--amber-bright); border-color: var(--amber-bright); }
 
+/* Homepage service button polish — review only.
+   Scope is intentionally limited to the existing Quote controls in the two
+   homepage service sections. No rows, headings, spacing, links or behavior
+   are altered. */
+#project-services .chip,
+#property-services .chip {
+  min-width: 74px;
+  min-height: 40px;
+  padding: 10px 16px;
+  border-color: var(--blue);
+  border-radius: 999px;
+  background: var(--blue);
+  color: var(--paper);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  box-shadow: 0 4px 10px rgba(7, 19, 34, 0.16);
+}
+
+#project-services .chip:hover,
+#project-services .chip:focus-visible {
+  background: var(--blue-deep);
+  border-color: var(--blue-deep);
+  color: var(--paper);
+}
+
+#property-services .chip {
+  border-color: var(--amber);
+  background: var(--amber);
+  color: var(--ink);
+}
+
+#property-services .chip:hover,
+#property-services .chip:focus-visible {
+  background: var(--amber-bright);
+  border-color: var(--amber-bright);
+  color: var(--ink);
+}
+
+@media (max-width: 620px) {
+  #project-services .chip,
+  #property-services .chip { min-height: 44px; }
+}
+
 /* disclosure */
 .disclose { border-bottom: 1px solid var(--line); }
 .disclose > summary {
